@@ -5,8 +5,8 @@ public static class ModHelperData
     public const string WorksOnVersion = "44.0";
     public const string Version = "1.3.0";
     public const string Name = "MultiTool++";
-    public const string RepoOwner = "Vort"; // TODO add your github username hero, also in the download url in README.md
-    public const string RepoName = "MultiTool++"; // TODO add your repo name here, also in the download url in README.md
+    public const string RepoOwner = "V0rt3xqa"; // TODO add your github username hero, also in the download url in README.md
+    public const string RepoName = "MultiToolsPlusPlus"; // TODO add your repo name here, also in the download url in README.md
     public const string Description =
     "A Improved Version Of Multitools by hkarargi<br><br>" +
     "F6: Set Round<br>" +
